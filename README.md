@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanjlemcke
+- 👋 Hi, I’m @nlemcke
 - 👀 I’m interested in finding a job in machine learning
 - 🌱 I’m currently learning BASH and Python
 - 💞️ I’m looking to collaborate on anything
