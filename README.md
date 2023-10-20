@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding a job in machine learning
 - 🌱 I’m currently learning Python and Flutter
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: nathanjlemcke@gmail.com
+- 📫 How to reach me: natelemckereads@gmail.com
 
 <!---
 nathanjlemcke/nathanjlemcke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
